@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+configstore
+
+# nix managed config
+git
+iterm2
+raycast
+
+# uneeded config
+yarn
+zed
+jgit
+
