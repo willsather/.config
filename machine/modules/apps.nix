@@ -38,13 +38,13 @@
       "jenv"
 
       # java
-      "openjdk@23"
+      "openjdk"
       "openjdk@21"
       "openjdk@17"
       "openjdk@11"
 
       # node
-      "node@22"
+      "node"
       "node@20"
       "pnpm"
 
