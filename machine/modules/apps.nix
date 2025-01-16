@@ -62,7 +62,6 @@
       "bruno"
       "flycut"
       "raycast"
-      "rectangle"
       "figma"
       # "sourcetree"
 
