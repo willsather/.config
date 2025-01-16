@@ -35,6 +35,10 @@
         ShowSeconds = true;
       };
 
+      controlcenter = {
+        BatteryShowPercentage = true; # show battery percentage in toolbar
+      };
+
       # customize finder
       finder = {
         AppleShowAllFiles = true; # show hidden files
@@ -62,6 +66,8 @@
           "/Applications/IntelliJ IDEA Ultimate.app"
           "/Applications/Ghostty.app"
           "/System/Applications/System Settings.app"
+          "/Applications/1Password.app"
+          "/System/Applications/Mail.app"
         ];
       };
 
