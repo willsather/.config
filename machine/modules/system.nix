@@ -60,7 +60,7 @@
           "/Applications/Arc.app"
           "/Applications/Slack.app"
           "/Applications/IntelliJ IDEA Ultimate.app"
-          "/Applications/iTerm.app"
+          "/Applications/Ghostty.app"
           "/System/Applications/System Settings.app"
         ];
       };

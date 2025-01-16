@@ -63,6 +63,7 @@
       "flycut"
       "raycast"
       "rectangle"
+      "figma"
       # "sourcetree"
 
       # lazy
@@ -73,21 +74,20 @@
       "arc"
       # "firefox"
       # "google-chrome"
-      # "zen-browser"
 
       # IDE
       "jetbrains-toolbox"
 
-      # terminal
-      "iterm2"
-      # "ghostty"
+      # terminal emulators
+      # "iterm2"
+      "ghostty"
 
       "visual-studio-code"
       "zed"
 
       # communiction
        "slack"
-      # "zoom"
+       "zoom"
 
       # fonts
       "font-fontawesome"

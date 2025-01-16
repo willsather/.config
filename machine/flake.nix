@@ -38,9 +38,9 @@
     home-manager,
     ...
   }: let
-    username = "satherw"; # FIXME: update to username
+    username = "willsather"; # FIXME: update to username
     architecture = "aarch64-darwin"; # FIXME: set system architecture as `aarch64-darwin` or `x86_64-darwin`
-    hostname = "JXDJLQC9C2"; # FIXME: update to machine hostname
+    hostname = "Wills-MacBook-Pro"; # FIXME: update to machine hostname
 
     specialArgs =
       inputs
