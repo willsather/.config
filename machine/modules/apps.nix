@@ -77,13 +77,11 @@
 
       # IDE
       "jetbrains-toolbox"
+      "visual-studio-code"
 
       # terminal emulators
       # "iterm2"
       "ghostty"
-
-      "visual-studio-code"
-      "zed"
 
       # communiction
        "slack"
