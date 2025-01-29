@@ -71,12 +71,13 @@
 
       # browsers
       "arc"
+      "google-chrome"
       # "firefox"
-      # "google-chrome"
 
       # IDE
       "jetbrains-toolbox"
       "visual-studio-code"
+      "cursor"
 
       # terminal emulators
       # "iterm2"
