@@ -67,7 +67,7 @@
           "/Applications/Ghostty.app"
           "/System/Applications/System Settings.app"
           "/Applications/1Password.app"
-          "/System/Applications/Mail.app"
+#          "/System/Applications/Books.app"
         ];
       };
 

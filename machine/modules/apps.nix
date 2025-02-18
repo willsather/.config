@@ -63,6 +63,9 @@
       "flycut"
       "raycast"
       "figma"
+      "yaak"
+      "notion"
+      "topnotch"
       # "sourcetree"
 
       # lazy
@@ -74,6 +77,9 @@
       "google-chrome"
       # "firefox"
 
+      # vpn
+      "mullvadvpn"
+
       # IDE
       "jetbrains-toolbox"
       "visual-studio-code"
@@ -83,9 +89,9 @@
       # "iterm2"
       "ghostty"
 
-      # communiction
-       "slack"
-       "zoom"
+      # communication
+      "slack"
+      "zoom"
 
       # fonts
       "font-fontawesome"

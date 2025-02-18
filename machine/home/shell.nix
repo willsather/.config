@@ -34,9 +34,16 @@
       # brew
       export PATH="/opt/homebrew/bin:$PATH"
 
-      export PATH=$PATH:$HOME/go/bin
-      export PATH=$PATH:$HOME/.cargo/bin
-      export PATH=$PATH:$HOME/.sst/bin
+      # pnpm
+      export PNPM_HOME="$HOME/.local/share/pnpm"
+      export PATH="$PNPM_HOME:$PATH"
+
+      # go
+      export PATH="$HOME/go/bin:$PATH"
+
+      # other
+      export PATH="$HOME/.cargo/bin:$PATH"
+      export PATH="$HOME/.sst/bin:$PATH"
 
       # jenv setup
       export PATH="$HOME/.jenv/bin:$PATH"
