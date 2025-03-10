@@ -59,14 +59,19 @@
       # productive
       "1password"
       "1password-cli"
-      "bruno"
       "flycut"
       "raycast"
       "figma"
-      "yaak"
       "notion"
-      "topnotch"
       # "sourcetree"
+
+      # http
+      "bruno"
+      # "yaak"
+
+      # macos notch
+      "topnotch"
+      "alcove"
 
       # lazy
       # "lazydocker"
@@ -75,6 +80,7 @@
       # browsers
       "arc"
       "google-chrome"
+      # "zen-browser"
       # "firefox"
 
       # vpn
@@ -86,8 +92,8 @@
       "cursor"
 
       # terminal emulators
-      # "iterm2"
       "ghostty"
+      # "iterm2"
 
       # communication
       "slack"
