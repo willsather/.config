@@ -52,6 +52,9 @@
       "go"
       "python"
       "rust"
+
+      # other
+      "libavif" # convert image
     ];
 
     # `brew install --cask`
@@ -62,8 +65,11 @@
       "flycut"
       "raycast"
       "figma"
-      "notion"
       # "sourcetree"
+
+      # notion
+      "notion"
+      "notion-calendar"
 
       # http
       "bruno"
@@ -71,7 +77,7 @@
 
       # macos notch
       "topnotch"
-      "alcove"
+      # "alcove"
 
       # lazy
       # "lazydocker"
