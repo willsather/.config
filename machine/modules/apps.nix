@@ -23,8 +23,6 @@
     };
 
     taps = [
-      "homebrew/services"
-
       # lazy
       # "jesseduffield/lazydocker"
       # "jesseduffield/lazygit"
