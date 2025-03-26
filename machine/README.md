@@ -15,7 +15,15 @@ then execute a single command to apply the configuration.
 2. Install [Nix](https://nixos.org/download.html).
 
    ```
-   curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+   sh <(curl -L https://nixos.org/nix/install)
+   ```
+   
+3. Enable Nix experimental features (create file if nonexistent)
+   
+   file: `~/.config/nix/nix.conf`
+
+   ```
+   experimental-features = nix-command flakes
    ```
 
 ## Getting Started
