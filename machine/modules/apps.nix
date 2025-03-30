@@ -88,7 +88,7 @@
       # "firefox"
 
       # vpn
-      "mullvadvpn"
+      # "mullvadvpn"
 
       # IDE
       "jetbrains-toolbox"

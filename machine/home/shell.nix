@@ -31,6 +31,10 @@
     ];
 
     initExtra = ''
+      # override git indicator
+      # ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[blue]%})%{$reset_color%} ▲"
+      # ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%})%{$reset_color%} ▲"
+
       # brew
       export PATH="/opt/homebrew/bin:$PATH"
 
