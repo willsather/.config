@@ -45,6 +45,7 @@
       "node"
       "node@20"
       "pnpm"
+      "fnm" # version manager
 
       # software
       "go"
@@ -92,7 +93,7 @@
       # "firefox"
 
       # vpn
-      "mullvadvpn"
+      # "mullvadvpn"
 
       # IDE
       "jetbrains-toolbox"
@@ -105,8 +106,8 @@
 
       # communication
       "slack"
-      # "microsoft-teams"
-      "zoom"
+      "microsoft-teams"
+      # "zoom"
 
       # fonts
       "font-fontawesome"

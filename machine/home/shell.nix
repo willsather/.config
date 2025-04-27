@@ -38,6 +38,9 @@
       # brew
       export PATH="/opt/homebrew/bin:$PATH"
 
+      # fnm
+      eval "$(fnm env --use-on-cd --shell zsh)"
+
       # pnpm
       export PNPM_HOME="$HOME/.local/share/pnpm"
       export PATH="$PNPM_HOME:$PATH"
