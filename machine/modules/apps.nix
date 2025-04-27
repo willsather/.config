@@ -51,6 +51,9 @@
       "python"
       "rust"
 
+      # vercel
+      "vercel-cli"
+
       # other
       "libavif" # convert image
     ];
@@ -88,7 +91,7 @@
       # "firefox"
 
       # vpn
-      # "mullvadvpn"
+      "mullvadvpn"
 
       # IDE
       "jetbrains-toolbox"
@@ -101,6 +104,7 @@
 
       # communication
       "slack"
+      # "microsoft-teams"
       "zoom"
 
       # fonts
