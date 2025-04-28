@@ -68,6 +68,7 @@
       "raycast"
       "figma"
       "cleanshot"
+      "granola"
       # "sourcetree"
 
       # notion
