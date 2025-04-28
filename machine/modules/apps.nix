@@ -66,6 +66,7 @@
       "flycut"
       "raycast"
       "figma"
+      "cleanshot"
       # "sourcetree"
 
       # notion
