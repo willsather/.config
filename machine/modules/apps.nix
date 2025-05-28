@@ -74,6 +74,7 @@
       # notion
       "notion"
       "notion-calendar"
+      "notion-mail"
 
       # http
       "bruno"
